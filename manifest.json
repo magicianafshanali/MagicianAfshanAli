@@ -1,7 +1,7 @@
 {
   "name": "Magician Afshan Ali",
   "short_name": "Afshan Ali",
-  "description": "Professional Magic Shows across Pakistan.",
+  "description": "Professional Magic Shows across Pakistan. Book Magician Afshan Ali for birthdays, schools, corporate events and special occasions.",
   "start_url": "/MagicianAfshanAli/",
   "scope": "/MagicianAfshanAli/",
   "display": "standalone",
@@ -10,14 +10,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "Afshan Ali.jpg",
+      "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "Afshan Ali.jpg",
+      "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
