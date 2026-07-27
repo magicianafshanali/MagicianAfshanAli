@@ -1,7 +1,9 @@
 {
   "name": "Magician Afshan Ali",
   "short_name": "Afshan Ali",
+  "description": "Professional Magic Shows across Pakistan.",
   "start_url": "/MagicianAfshanAli/",
+  "scope": "/MagicianAfshanAli/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#b8860b",
