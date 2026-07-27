@@ -1,10 +1,11 @@
 {
-  "name": "Magician App",
-  "short_name": "Magician",
-  "start_url": "/",
+  "name": "Magician Afshan Ali",
+  "short_name": "Afshan Ali",
+  "start_url": "/MagicianAfshanAli/",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#111111",
+  "theme_color": "#b8860b",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "Afshan Ali.jpg",
